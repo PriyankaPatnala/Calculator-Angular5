@@ -1,0 +1,12 @@
+<div class="calculator" xmlns="">
+  <app-display #input></app-display>
+  <div *ngFor="let button of elementArray" class="buttonpanel">
+    <div *ngIf=" button.type === 'NUMBER' ">
+      <app-number [data]="button.dataValue" (numClick)="onNumberClick($event)"></app-number>
+    </div>
+    <div *ngIf=" button.type === 'OPERATOR'">
+      <app-operator [data]="button.dataValue" (operatorClick)="onOperatorClick($event)"></app-operator>
+    </div>
+  </div>
+</div>
+
