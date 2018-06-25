@@ -2,7 +2,6 @@
   <app-display #input></app-display>
   <div *ngFor="let button of elementArray" class="buttonpanel">
     <div *ngIf="button.type === 'NUMBER'; else elseBlock" >
-      <!--<div appNumbers [data]="button.dataValue" (numClick)="onNumberClick($event)"></div>-->
       <app-number [data]="button.dataValue" (numClick)="onNumberClick($event)"></app-number>
     </div>
     <ng-template #elseBlock>
