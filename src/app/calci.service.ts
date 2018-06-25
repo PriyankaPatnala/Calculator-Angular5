@@ -5,8 +5,7 @@ import {HttpClient} from '@angular/common/http';
   providedIn: 'root'
 })
 export class CalciService {
-
-  configUrl = 'assets/buttonInfo.json';
+  configUrl = 'assets/buttons.json';
 
   constructor(private http: HttpClient) { }
 

@@ -1,11 +1,11 @@
-import {Component, OnInit, Input, Output, EventEmitter} from '@angular/core';
+import {Component, Input, Output, EventEmitter} from '@angular/core';
 
 @Component({
   selector: 'app-number',
   templateUrl: './number.component.html',
   styleUrls: ['./number.component.css']
 })
-export class NumberComponent implements OnInit {
+export class NumberComponent {
 
   @Input() data: string;
 
@@ -14,11 +14,4 @@ export class NumberComponent implements OnInit {
   onNumberClick(data: string) {
     this.numClick.emit(data);
   }
-
-  constructor() {
-  }
-
-  ngOnInit() {
-  }
-
 }

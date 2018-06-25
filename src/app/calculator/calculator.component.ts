@@ -1,4 +1,4 @@
-import {Component, ElementRef, OnInit, ViewChild, AfterViewInit} from '@angular/core';
+import {Component, Directive, ElementRef, OnInit, ViewChild, AfterViewInit} from '@angular/core';
 import {CalciService} from '../calci.service';
 declare var calculatorComputation: any;
 

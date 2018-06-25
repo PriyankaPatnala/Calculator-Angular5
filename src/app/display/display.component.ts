@@ -5,11 +5,7 @@ import {Component, OnInit, Input, ViewChild} from '@angular/core';
   templateUrl: './display.component.html',
   styleUrls: ['./display.component.css']
 })
-export class DisplayComponent implements OnInit {
-@ViewChild('input') input;
-  constructor() { }
-
-  ngOnInit() {
-  }
+export class DisplayComponent {
+  @ViewChild('input') input;
 
 }

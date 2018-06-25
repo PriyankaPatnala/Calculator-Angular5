@@ -20,36 +20,6 @@
     "type": "OPERATOR"
   },
   {
-    "displayValue": "*",
-    "dataValue": "*",
-    "type": "OPERATOR"
-  },
-  {
-    "displayValue": "-",
-    "dataValue": "-",
-    "type": "OPERATOR"
-  },
-  {
-    "displayValue": "+",
-    "dataValue": "+",
-    "type": "OPERATOR"
-  },
-  {
-    "displayValue": "+-",
-    "dataValue": "+-",
-    "type": "OPERATOR"
-  },
-  {
-    "displayValue": ".",
-    "dataValue": ".",
-    "type": "OPERATOR"
-  },
-  {
-    "displayValue": "=",
-    "dataValue": "=",
-    "type": "OPERATOR"
-  },
-  {
     "displayValue": "7",
     "dataValue": "7",
     "type": "NUMBER"
@@ -63,6 +33,11 @@
     "displayValue": "9",
     "dataValue": "9",
     "type": "NUMBER"
+  },
+  {
+    "displayValue": "*",
+    "dataValue": "*",
+    "type": "OPERATOR"
   },
   {
     "displayValue": "4",
@@ -80,6 +55,11 @@
     "type": "NUMBER"
   },
   {
+    "displayValue": "-",
+    "dataValue": "-",
+    "type": "OPERATOR"
+  },
+  {
     "displayValue": "1",
     "dataValue": "1",
     "type": "NUMBER"
@@ -95,9 +75,29 @@
     "type": "NUMBER"
   },
   {
+    "displayValue": "+",
+    "dataValue": "+",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "+-",
+    "dataValue": "+-",
+    "type": "OPERATOR"
+  },
+  {
     "displayValue": "0",
     "dataValue": "0",
     "type": "NUMBER"
+  },
+  {
+    "displayValue": ".",
+    "dataValue": ".",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "=",
+    "dataValue": "=",
+    "type": "OPERATOR"
   }
 ]
 
