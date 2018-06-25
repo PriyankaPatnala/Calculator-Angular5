@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [
   {
     "displayValue": "CE",
@@ -102,3 +103,109 @@
 ]
 
 
+=======
+[
+  {
+    "displayValue": "CE",
+    "dataValue": "CE",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "C",
+    "dataValue": "C",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "%",
+    "dataValue": "%",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "/",
+    "dataValue": "/",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "*",
+    "dataValue": "*",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "-",
+    "dataValue": "-",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "+",
+    "dataValue": "+",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "+-",
+    "dataValue": "+-",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": ".",
+    "dataValue": ".",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "=",
+    "dataValue": "=",
+    "type": "OPERATOR"
+  },
+  {
+    "displayValue": "7",
+    "dataValue": "7",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "8",
+    "dataValue": "8",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "9",
+    "dataValue": "9",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "4",
+    "dataValue": "4",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "5",
+    "dataValue": "5",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "6",
+    "dataValue": "6",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "1",
+    "dataValue": "1",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "2",
+    "dataValue": "2",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "3",
+    "dataValue": "3",
+    "type": "NUMBER"
+  },
+  {
+    "displayValue": "0",
+    "dataValue": "0",
+    "type": "NUMBER"
+  }
+]
+
+
+>>>>>>> b9fa056d3a43abcb11d5bb4d002f7a283c94e1eb
